@@ -49,6 +49,7 @@ public class UserController : ControllerBase
         this.addLinks = userLinksBuilder;
      }
      readonly UserLinksBuilder addLinks;
+     ...
 }
 ````
 The UserLinksBuilder class your custom API for building the links:
