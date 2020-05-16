@@ -1,11 +1,13 @@
-# Hateoas
+# Hyper Media As The Engine Of Application State (HATEOAS)
+
+[![NuGet version (Vlerx.Hateoas)](https://img.shields.io/nuget/v/Vlerx.Hateoas.svg?style=flat-square)](https://www.nuget.org/packages/Vlerx.Hateoas/)
 
 An easy to use framework to wrap the the objects and add Hyper Media to them.
 
 Having a general formula for generating all HATEOAS links is a bad practice since the links should be attached depending on the situation. Vlerx.Hateoas is a library that lets you attach the links easily and customize the language around your link generation.
 
 ## How it works
-Install [this](https://www.nuget.org/packages/Vlerx.Hateoas/) nuget package.
+`Install-Package Vlerx.Hateoas`
 
 Look at these three actions in the user controller.
 ```cs
