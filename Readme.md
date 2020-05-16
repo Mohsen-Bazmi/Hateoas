@@ -2,9 +2,9 @@
 
 An easy to use framework to wrap the the objects and add Hyper Media to them.
 
-Having a general formula for generating all HATEOAS links is a bad practice since the links shuld be attached depending on the situation. Vlerx.Hateoas is an easy to use library that lets you attach the links easily.
+Having a general formula for generating all HATEOAS links is a bad practice since the links should be attached depending on the situation. Vlerx.Hateoas is a library that lets you attach the links easily and customize the language around your link generation.
 
-## How to use it
+## How it works
 Install [this](https://www.nuget.org/packages/Vlerx.Hateoas/) nuget package.
 
 Look at these three actions in the user controller.
@@ -98,4 +98,4 @@ And this tiny nested class to build link to collection results:
 ```
 
 ## Why a separate links builder?
-Don't Repeate Yourself is pretty relevant for building the links. Adding the creation of the links to the responsiblity of a controller usually ends up a bloated messy controller. The controller want's to attach different combinations of different links in different situations. The builder seems to be the clearest solution.
+Don't Repeate Yourself is pretty relevant for building the links. Adding the creation of the links to the responsiblities of a controller usually ends up a bloated messy controller. The controller want's to attach different combinations of different links in different situations easily. The builder we saw on top lets the controller combine the links for different results in a readable language. It is also a single source of change for links.
