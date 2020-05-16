@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ADIXxSkgkhM0EayqoviN/1st4banVn+Mlya6lhlLe8LFq+pxKHMGOvbuz2wsvhjORrK1VoChdqvJ8OoNTVCOw==",
+  "success": true,
+  "projectFilePath": "/home/mohsen/Desktop/Sample/Cross-cutting/Hateoas/Hateoas.csproj",
+  "expectedPackageFiles": [
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

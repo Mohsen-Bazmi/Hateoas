@@ -1,0 +1,9 @@
+/home/mohsen/Desktop/Sample/Cross-cutting/Hateoas/bin/Debug/netstandard2.0/Hateoas.deps.json
+/home/mohsen/Desktop/Sample/Cross-cutting/Hateoas/bin/Debug/netstandard2.0/Hateoas.dll
+/home/mohsen/Desktop/Sample/Cross-cutting/Hateoas/bin/Debug/netstandard2.0/Hateoas.pdb
+/home/mohsen/Desktop/Sample/Cross-cutting/Hateoas/obj/Debug/netstandard2.0/Hateoas.csprojAssemblyReference.cache
+/home/mohsen/Desktop/Sample/Cross-cutting/Hateoas/obj/Debug/netstandard2.0/Hateoas.csproj.CoreCompileInputs.cache
+/home/mohsen/Desktop/Sample/Cross-cutting/Hateoas/obj/Debug/netstandard2.0/Hateoas.AssemblyInfoInputs.cache
+/home/mohsen/Desktop/Sample/Cross-cutting/Hateoas/obj/Debug/netstandard2.0/Hateoas.AssemblyInfo.cs
+/home/mohsen/Desktop/Sample/Cross-cutting/Hateoas/obj/Debug/netstandard2.0/Hateoas.dll
+/home/mohsen/Desktop/Sample/Cross-cutting/Hateoas/obj/Debug/netstandard2.0/Hateoas.pdb
