@@ -101,6 +101,6 @@ And this tiny nested class to build link to collection results:
 ```
 
 ## Why a separate links builder?
-Don't Repeate Yourself is pretty relevant for building the links. 
-Adding the creation of the links to the responsiblities of a controller usually ends up a bloated messy controller. The controller wants to attach different combinations of different links in different situations easily. The builder we saw on top lets the controller combine the links for different results in a readable language. 
-It is also a single source of change for links.
+Don't Repeate Yourself is relevant for building HATEOS links. 
+Adding the creation of the links to the responsiblities of a controller usually ends up a bloated messy controller. The controller needs to attach different combinations of different links to different responses easily. The builder we saw on top provides a DSL for building the links. 
+As the result a chnage in a single link address requires a single change of the builder rather than propagating through multiple controllers. 
